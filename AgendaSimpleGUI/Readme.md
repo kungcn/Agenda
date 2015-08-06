@@ -1,8 +1,11 @@
 # Readme
+**Sorry because of time limit, I just write the readme.md in my mother language -- Chinese instead of English, so I will update it if I have spare time.**
+
 ## 用户需求文档
 ### Agenda Simple GUI的功能
 1. 通过Web实现了Agenda会议管理系统的图形用户界面设计，采用的是html和css， 使得用户体验更好，而不是依赖于C++的黑框进行UI操作。与后台链接后就可以使用。
 2. 因为时间及自身技术限制，并没有使用图片背景等等的，页面较简单，也没有做美工，这是不足之处。
+
 ### Agenda Simple GUI的各个文件的介绍
 * AgendaFirstPage.html为整个系统的首页，应从此页开始体验。
 * AgendaRegister.html为系统注册页面，为注册用户应先按网页要求填写相关信息后进行验证。
@@ -19,9 +22,10 @@
 * AgendaSimpleGUI.css为以上所有html文件的css格式来源。
 * SYSU.jpg为系统的那个图标(icon)，因为时间关系和图片版权问题，所以没有找其他图片而是这一张。
 * SecurityCode.png为登录页面的验证码图片，取自新浪微博登录的验证码图片。
+
 ### 关于html和css文件的说明
-* 全部的网页都经过w3cschool的html和css检测，每个html文件都是有2个warning, 一个是永远存在的warning(表示虽然通过了测试但仍然可能有错误的一个warning),另外一个我也是第一次看到的，大概是我不知道哪里混进了html5语法，但是我并不会如何改进。
-* 由于时间关系，所以css文件内各选择器内的语句可能写得并不规范，css代码的可维护性会降低，抱歉。
+* 全部的网页都经过w3c的html和css检测，每个html文件都是有2个warning, 一个是永远存在的warning(表示虽然通过了测试但仍然可能有错误的一个warning),另外一个我也是第一次看到的，大概是我不知道哪里混进了html5语法，但是我并不会如何改进。
+* 由于时间关系，所以css文件内各选择器内的语句顺序可能写得并不规范，css代码的可维护性会降低，抱歉。
 
 学号：14331074
 姓名：龚俊宁
