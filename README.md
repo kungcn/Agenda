@@ -15,3 +15,6 @@
   6. delete meeting;
   7. delete user accout;
 * All datas will be collected in **User.csv** and **Meeting.csv** .
+
+If you have any problem, welcome to contact me by email.
+My email address is `kcnnow(at)gmail.com`. (at) must be replaced by @. Thank you!
